@@ -1,0 +1,15 @@
+.footer {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: thistle;
+    text-shadow: 10px 2px 30px rgb(214, 208, 208);
+
+}
+
+#contact {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(170, 97, 170);
+    text-shadow: 10px 2px 30px rgb(214, 208, 208);
+
+}
